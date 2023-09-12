@@ -4,7 +4,7 @@
 # We have some data in Text.txt file, and now we are extracting the data from that file
 
 file = open('Text.txt')     # Here we are opening the Text file and creating an object to it (file)
-print(file.read())     # It will read all the content of file
+print(file.read())     # It will read all the content of file.
 # Output is :
 # Viswamohan Reddy
 # Harshavardhan Reddy
